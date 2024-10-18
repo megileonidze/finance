@@ -1,0 +1,57 @@
+body{ 
+background-color: #fefae0;
+
+ }
+
+
+
+.baneri{
+	background-color: #023047;
+	color: #ffb703;
+	font-size: 90px;
+	padding: 20PX;
+}
+
+.logo{
+
+	font-size: 150PX;
+	color:#e6d61a ;
+}
+
+#engname{
+font-size: 90px;
+font-family: pacifico;
+
+}
+#geoname{
+
+font-size: 60px;
+font-family:  mg_glaho_drunk_;
+}
+
+.info{
+	width: 70%;
+	background-color: #ffffff;
+	font-size: 25px;
+	padding: 50px;
+text-align: justify;
+box-shadow: 0px 0px 15px black;
+font-family: mg_glaho_drunk_;
+
+}
+.arrow{
+	color: orange;
+}
+.CONTACT{
+	font-size: 25PX;
+	font-family: pacifico;
+
+}
+.KONTEINERI{s
+	width: 25%;
+	text-align: left;
+}
+
+.SIMBOLO{
+	color: orange;
+}
